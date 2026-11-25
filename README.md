@@ -1,4 +1,4 @@
-# SyllabusSOS++
+# Syllabus-SOS++
 
 A university-scoped learning and peer tutoring platform. Students find help from people at their own university, teachers review resources and see where a course is struggling, and everyone shares campus events in one place.
 
